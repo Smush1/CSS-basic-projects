@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background:radial-gradient(#EC8023,whitesmoke);
+}
+.first-product, .second-product{
+    margin:20px 10px;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.first-product{
+    background:radial-gradient(whitesmoke,#2F3719) ;
+    margin:20px 10px
+}
+
+
+
+.second-product{
+    background:radial-gradient(whitesmoke,#EC8023 ) ;
+}
+
+h2{
+    background-color: antiquewhite;
+    padding:5px;
+    border-radius: 5px 5px 0 0 ;
+    position: sticky;
+    top: 0;
+}
+
+.info{
+    margin: 30px 10px;
+}
+
+.benefits{
+    margin: 60px 10px;
+}
+
+ul{
+margin: 30px 50px;
+}
